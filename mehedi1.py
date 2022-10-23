@@ -158,7 +158,7 @@ OPTIONS:
  \____\__, |_.__/ \___|_|       |_| \_\___/ \___|_|\_\\__, |
       |___/                                           |___/
 ............................................................
-       This is ***ZIHAD-DARK *** Password Attack Tools.
+       This is ***MEHEDI1 *** Password Attack Tools.
 
                 .....Made in Bangladesh.....
 
@@ -283,7 +283,7 @@ def Main():
        sys.exit(1)
 
 
-if __name__=='__main__':
+if __name__=='_mehedi1__':
     Main()
 
 
